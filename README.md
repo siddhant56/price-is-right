@@ -1,13 +1,12 @@
 ---
 title: Price Is Right
-emoji: 👁
-colorFrom: pink
-colorTo: pink
+emoji: 💰
+colorFrom: blue
+colorTo: green
 sdk: gradio
-sdk_version: 6.15.2
-python_version: '3.13'
+sdk_version: "5.49.1"
 app_file: app.py
 pinned: false
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+Autonomous agent framework that hunts for deals by scanning RSS feeds, estimating prices via a RAG pipeline + fine-tuned LLM on Modal, and sending Pushover push notifications.

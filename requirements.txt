@@ -1,0 +1,17 @@
+gradio==5.49.1
+openai
+anthropic
+litellm
+chromadb
+sentence-transformers
+scikit-learn
+numpy
+pandas
+plotly
+feedparser
+beautifulsoup4
+requests
+python-dotenv
+pydantic
+modal
+tqdm
